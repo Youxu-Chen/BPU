@@ -1,0 +1,4 @@
+kernel//media/cyx/KINGSTON/Source_Code_BPU/raid1.ko
+kernel//media/cyx/KINGSTON/Source_Code_BPU/raid10.ko
+kernel//media/cyx/KINGSTON/Source_Code_BPU/raid456.ko
+kernel//media/cyx/KINGSTON/Source_Code_BPU/md-mod.ko
